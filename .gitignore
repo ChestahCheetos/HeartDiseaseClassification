@@ -1,6 +1,6 @@
 # Ignore Directories
 
-env/
+heartdisease_env/
 .ipynb_checkpoints/
 
 # Ignore Files
